@@ -1,4 +1,4 @@
-/* 
+/* total functin 
 function getPin() {
     // document.getElementById('generate-pin-no').addEventListener('click', function () {
     // const generateInput = document.getElementById('generate-input');
